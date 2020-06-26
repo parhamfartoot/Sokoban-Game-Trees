@@ -1,0 +1,6 @@
+{
+	"test_name": "Box evalution test with no enemies",
+	"maps": ["evaluation/box_no_enemies_p1", "evaluation/box_no_enemies_p2"],
+	"seed": 0,
+	"solution": "evaluation/box_no_enemies_p1"
+}

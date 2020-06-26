@@ -1,0 +1,12 @@
+{
+	"test_name": "Expectimax on complex map with seed (924)",
+	"maps": ["tree_searching/complex"],
+	"seed": 924,
+	"solution": ["south", "west", "west", "east", "north",
+							 "east", "south", "north", "south", "north",
+							 "stop", "stop", "south", "stop", "north",
+							 "south", "north", "south", "north", "south",
+							 "stop", "west", "west", "west", "north", "north",
+							 "north", "north", "east", "east", "east", "south"]
+}
+

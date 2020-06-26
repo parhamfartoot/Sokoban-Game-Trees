@@ -1,0 +1,6 @@
+{
+	"test_name": "Seeded Predict (115) Test for MarkovAgent on Medium Map",
+	"map": "predict/medium_prediction_map",
+	"seed" : 115,
+	"solution": 120 
+}

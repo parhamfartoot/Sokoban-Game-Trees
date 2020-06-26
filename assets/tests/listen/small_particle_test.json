@@ -1,0 +1,6 @@
+{
+	"test_name": "Seeded Listen (511) Test for ParticleAgent on Small Map",
+	"map": "listen/small_listen_map",
+	"seed" : 511,
+	"solution": 100 
+}

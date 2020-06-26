@@ -1,0 +1,14 @@
+{
+	"test_name": "Minimax on complex map with seed (1151)",
+	"maps": ["tree_searching/complex"],
+	"seed": 1151,
+	"solution": ["south", "west", "west", "east", "north",
+							 "east", "south", "north", "south", "north",
+							 "south", "north", "south", "north", "south",
+							 "north", "south", "north", "west", "stop",
+							 "east", "south", "north", "stop", "west",
+							 "south", "west", "west", "north", "north",
+							 "north", "north", "east", "east", "east",
+							 "south"]
+}
+

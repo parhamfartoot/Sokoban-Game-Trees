@@ -1,0 +1,8 @@
+{
+	"test_name": "Minimax on small map with seed (12421)",
+	"maps": ["tree_searching/small"],
+	"seed": 12421,
+	"solution": ["north", "north", "north", "east", "east",
+							 "west", "south", "west", "north", "south",
+							 "south", "south", "east", "east", "east"]
+}

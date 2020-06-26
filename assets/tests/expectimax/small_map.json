@@ -1,0 +1,10 @@
+{
+	"test_name": "Expectimax on small map with seed (1273)",
+	"maps": ["tree_searching/small"],
+	"seed": 1273,
+	"solution": ["north", "north", "north", "south", "north",
+							 "south", "north", "east", "south", "west",
+							 "north", "south", "north", "south", "north",
+							 "south", "south", "south", "east", "east",
+							 "east"]
+}

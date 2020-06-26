@@ -1,0 +1,9 @@
+{
+	"test_name": "Expectimax on medium map with seed (1773)",
+	"maps": ["tree_searching/medium"],
+	"seed": 1773,
+	"solution": ["north", "north", "north", "north", "east",
+							 "east", "east", "east", "east", "south",
+							 "north", "south", "north", "south", "south",
+							 "south", "west", "west"]
+}

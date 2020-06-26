@@ -1,0 +1,10 @@
+{
+	"test_name": "Alpha beta pruning on small map with seed (9001)",
+	"maps": ["tree_searching/small"],
+	"seed": 9001,
+	"solution": ["north", "north", "north", "east", "east",
+							 "east", "south", "north", "west", "east",
+							 "west", "east", "west", "west", "east",
+							 "west", "south", "west", "south", "south",
+							 "east", "east", "east"]
+}

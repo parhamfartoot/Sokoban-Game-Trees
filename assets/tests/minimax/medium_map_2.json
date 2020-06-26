@@ -1,0 +1,8 @@
+{
+	"test_name": "Minimax on another medium map with seed (171)",
+	"maps": ["tree_searching/medium_2"],
+	"seed": 171,
+	"solution": ["north", "east", "east", "north", "north",
+							 "north", "west", "east", "east", "south",
+							 "east", "south", "south"]
+}

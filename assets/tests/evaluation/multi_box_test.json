@@ -1,0 +1,6 @@
+{
+	"test_name": "Box evalution test with multiple boxes",
+	"maps": ["evaluation/multi_box_p1", "evaluation/multi_box_p2"],
+	"seed": 0,
+	"solution": "evaluation/multi_box_p1"
+}

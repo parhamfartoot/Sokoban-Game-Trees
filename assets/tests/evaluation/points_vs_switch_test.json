@@ -1,0 +1,6 @@
+{
+	"test_name": "Points evalution test to evaluate point importance vs switch importance",
+	"maps": ["evaluation/points_vs_switch_p1", "evaluation/points_vs_switch_p2"],
+	"seed": 0,
+	"solution": "evaluation/points_vs_switch_p1"
+}

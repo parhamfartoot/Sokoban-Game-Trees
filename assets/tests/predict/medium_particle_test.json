@@ -1,0 +1,6 @@
+{
+	"test_name": "Seeded Predict (241) Test for ParticleAgent on Medium Map",
+	"map": "predict/medium_prediction_map",
+	"seed" : 241,
+	"solution": 120 
+}

@@ -1,0 +1,6 @@
+{
+	"test_name": "Seeded Predict (217) Test for MarkovAgent on Small Map",
+	"map": "predict/small_prediction_map",
+	"seed" : 217,
+	"solution": 100 
+}

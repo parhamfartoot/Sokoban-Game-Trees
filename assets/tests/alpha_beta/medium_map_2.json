@@ -1,0 +1,7 @@
+{
+	"test_name": "Alpha beta pruning on another medium map with seed (18921)",
+	"maps": ["tree_searching/medium_2"],
+	"seed": 1213,
+	"solution": ["north", "east", "east", "north", "east",
+							 "east", "south"]
+}
